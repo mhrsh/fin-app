@@ -25,7 +25,8 @@ header {
 .logo {
     font-weight: bold;
     font-size: 1.2rem;
-    color: #0072ff;
+    color: #55a2ce;
+    letter-spacing: 5px;
 }
 
 nav a {
