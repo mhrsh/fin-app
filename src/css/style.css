@@ -24,7 +24,7 @@ header {
 
 .logo {
     font-weight: bold;
-    font-size: 1.2rem;
+    font-size: 0.75rem;
     color: #55a2ce;
     letter-spacing: 5px;
 }
@@ -67,6 +67,7 @@ nav a:hover {
     max-width: 300px;
     border-radius: 1rem;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    margin-top: 2rem;
 }
 
 /* Botão padrão */

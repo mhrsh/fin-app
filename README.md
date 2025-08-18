@@ -35,8 +35,8 @@ Demonstrar:
 - Totalmente responsivo para diferentes tamanhos de tela
 
 ## 🖼️ Preview
-
-> Você pode colocar uma imagem ou um GIF animado aqui com uma captura da página em mobile e desktop.
+![alt text](src/images/image-1.png)
+![alt text](src/images/image.png)
 
 ## 🚀 Como Visualizar
 
