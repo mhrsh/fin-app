@@ -42,7 +42,7 @@ Demonstrar:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/finapp-landing.git
+   git clone https://github.com/mhrsh/fin-app.git
    ```
 
 2. Abra o arquivo `index.html` no navegador
@@ -58,4 +58,5 @@ Demonstrar:
 
 ## 📎 Licença
 
-Projeto com fins educacionais. Todos os direitos reservados a Matheus Hiroshi © 2025.
+Este projeto foi desenvolvido com fins educacionais, como parte do curso FullStack.
+Você pode reutilizar e modificar o código livremente.
