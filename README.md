@@ -77,26 +77,17 @@ finapp-landing-page
 
 ## Como Executar o Projeto
 
-1. **Clonar o repositório**
+**Clonar o repositório**
    ```bash
    git clone https://github.com/mhrsh/fin-app.git
-
-2. **Acessar a pasta do projeto**
-
-    cd finapp-landing
-
-
-3. **Abrir o arquivo index.html no navegador.**
-
-    O projeto é 100% estático, sem dependências adicionais.
-
+```
 ## Screenshots
 
-💻 Versão Desktop  
+Versão Desktop  
 ![alt text](src/images/image.png)
 
 
-📱 Versão Mobile  
+Versão Mobile  
 ![alt text](src/images/image-1.png)
 
 
