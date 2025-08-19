@@ -92,11 +92,11 @@ finapp-landing-page
 
 ## Screenshots
 
-💻 Versão Desktop
+💻 Versão Desktop  
 ![alt text](src/images/image.png)
 
 
-📱 Versão Mobile
+📱 Versão Mobile  
 ![alt text](src/images/image-1.png)
 
 
